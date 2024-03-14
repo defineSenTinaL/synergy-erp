@@ -98,14 +98,14 @@ const Order = () => {
         <CardHeader
           variant="gradient"
           color="blue-gray"
-          className="mb-8 p-6 flex flex-col md:flex-row justify-betweengap-16"
+          className="mb-8 p-6 flex flex-col md:flex-row justify-between md:gap-16"
         >
           <Typography variant="h3" color="white">
             Orders
           </Typography>
           <Popover>
             <PopoverHandler>
-              <div className="pt-5 md:w-56">
+              <div className="pt-5 md:pt-0 md:w-56">
                 <Input
                   label="Select a Date"
                   onChange={() => null}
