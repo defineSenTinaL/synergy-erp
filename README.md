@@ -81,8 +81,7 @@ Here are some screenshots showcasing the Simplified ERP System with React:
 ![Product Add](screenshots/desktop3.png)
 ![Orders](screenshots/desktop4.png)
 ![Dashboard](screenshots/mobile1.png) | ![Products List](screenshots/mobile2.png)
-![Product Add](screenshots/mobile3.png)
-![Orders](screenshots/mobile4.png)
+![Product Add](screenshots/mobile3.png) | ![Orders](screenshots/mobile4.png)
 
 ## License
 
